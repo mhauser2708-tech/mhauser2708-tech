@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Maximilian Hauser, MSc Data Science" width="100%">
+  <img src="banner.svg" alt="Maximilian Hauser, MSc Data Science" width="100%">
 </p>
 
 ### Hi, I'm Maximilian 👋
